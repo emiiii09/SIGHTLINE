@@ -12,9 +12,21 @@ more. It scores every page 0–100, shows a marked-up preview, and asks
 **Muse Spark** (Meta Model API) for a plain-words verdict plus a corrected
 code fix, issue by issue.
 
-| Welcome | Menu | Results | History |
+| Welcome | Key setup | Menu | URL tool |
 |---|---|---|---|
-| ![welcome](docs/01-welcome.png) | ![menu](docs/02-menu.png) | ![results](docs/03-results.png) | ![history](docs/04-history.png) |
+| ![welcome](docs/01-welcome.png) | ![setup](docs/02-setup.png) | ![menu](docs/03-menu.png) | ![url tool](docs/04-url-tool.png) |
+
+| Results | AI verdict | AI fix | Preview |
+|---|---|---|---|
+| ![results](docs/05-results.png) | ![verdict](docs/06-verdict.png) | ![fix](docs/07-fix.png) | ![preview](docs/08-preview.png) |
+
+| HTML tool | Settings | History | Help |
+|---|---|---|---|
+| ![html](docs/09-html.png) | ![settings](docs/10-settings.png) | ![history](docs/11-history.png) | ![help](docs/12-help.png) |
+
+| About |
+|---|
+| ![about](docs/13-about.png) |
 
 ## Features
 
