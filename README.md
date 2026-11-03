@@ -90,18 +90,6 @@ no key logs (verified in logcat). Each user brings their own key.
 `.apikey` and `local.properties` are git-ignored; verify with
 `git status --porcelain` before pushing.
 
-## Demo script (3 min)
-
-1. (0:00) "1 in 6 people live with disability, yet most sites fail basic
-   checks. Sightline finds those barriers and helps fix them."
-2. (0:25) Welcome → key setup (validated) → menu with two tools + history.
-3. (0:50) Demo page: score 39/100, 8 finding cards in plain words.
-4. (1:30) AI verdict, then an AI fix with corrected code + copy.
-5. (2:00) Marked preview with numbered badges; fix plan shared.
-6. (2:25) Real URL live audit; history collects every score.
-7. (2:50) "Deterministic audit plus Meta reasoning, offline-first,
-   bilingual, open source. Built with Muse Spark via the Meta Model API."
-
 ## Rubric mapping
 
 Impact (30%): real web accessibility for people with disabilities.
