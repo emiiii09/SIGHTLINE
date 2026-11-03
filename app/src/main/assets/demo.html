@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Sightline demo page</title>
+</head>
+<body>
+  <h1>Welcome to our shop</h1>
+  <!-- Skipped level on purpose: h1 -> h3 -->
+  <h3>Today's offers</h3>
+  <!-- 6. Empty heading -->
+  <h2></h2>
+
+  <!-- 1. Image without alt -->
+  <img src="hero.jpg">
+
+  <!-- 2. Input without label -->
+  <form action="/search">
+    <input type="text" id="q" name="q" placeholder="Search">
+    <button type="submit">Search</button>
+  </form>
+
+  <!-- 3. Empty button (no accessible name) -->
+  <button id="menuBtn"><span class="icon"></span></button>
+
+  <!-- 4. Empty link -->
+  <p>Read more <a href="/offers"></a></p>
+
+  <!-- 5. Low contrast text: #777 on white is ~4.48:1, under WCAG AA 4.5:1 -->
+  <p style="color: #777777;">Small print that is hard to read for many users.</p>
+</body>
+</html>

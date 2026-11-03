@@ -1,0 +1,3 @@
+# No secrets needed to build Sightline.
+# Every user types their own Meta API key inside the app (Settings),
+# kept in memory only for the session. Do NOT add keys to this repo.

@@ -1,0 +1,13 @@
+# Secrets — the Meta API key must never reach git.
+local.properties
+.apikey
+# Build outputs
+build/
+.gradle/
+*.iml
+.idea/
+captures/
+*.apk
+*.aab
+# Except the judges' installable, built from this exact source.
+!sightline-demo.apk
