@@ -102,13 +102,6 @@ no key logs (verified in logcat). Each user brings their own key.
 7. (2:50) "Deterministic audit plus Meta reasoning, offline-first,
    bilingual, open source. Built with Muse Spark via the Meta Model API."
 
-## Submission checklist (due Nov 4, 9:00 PM ET)
-
-* [x] Public repo, all work from the event, solo entry.
-* [ ] 3-minute demo video showing only hackathon-built features.
-* [ ] Video link + repo accessible, APK installable for judges.
-* [ ] Listed on the submission page (solo: 1).
-
 ## Rubric mapping
 
 Impact (30%): real web accessibility for people with disabilities.
